@@ -1,4 +1,4 @@
-// HTML
+
 var taskInput = document.getElementById('task-input');
 var addBtn = document.getElementById('add-btn');
 var taskList = document.getElementById('task-list');
