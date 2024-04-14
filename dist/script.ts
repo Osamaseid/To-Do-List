@@ -1,4 +1,4 @@
-// HTML
+
 const taskInput = document.getElementById('task-input') as HTMLInputElement;
 const addBtn = document.getElementById('add-btn') as HTMLButtonElement;
 const taskList = document.getElementById('task-list') as HTMLUListElement;
