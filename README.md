@@ -1,6 +1,3 @@
-# To-Do-List
-Certainly! Here's a sample README file for a To-Do List app:
-
 # To-Do List App
 
 This is a simple To-Do List app that allows you to manage your tasks effectively. You can add new tasks, mark them as completed, edit existing tasks, and delete tasks as needed. The app provides a user-friendly interface to help you stay organized and keep track of your daily tasks.
