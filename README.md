@@ -13,4 +13,4 @@ This is a simple To-Do List app that allows you to manage your tasks effectively
 
 - HTML: The structure and layout of the app are built using HTML.
 - CSS (Tailwind CSS): The app's styling is done using the Tailwind CSS framework to provide a clean and modern look.
-- Typescript: The app's functionality is implemented using JavaScript to handle user interactions and task management.
+- Typescript: The app's functionality is implemented using Typescript to handle user interactions and task management.
